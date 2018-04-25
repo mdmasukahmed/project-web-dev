@@ -1,0 +1,27 @@
+*{margin:0; padding:0; outline:0;}
+body{font-family:Times New Roman;line-height:25px;}
+	.top_bar{
+		background: #4c4ab5;
+		padding:%;
+		background-size:100px;
+		
+	}
+	h1{
+		position:absolute;
+		top:8%;
+		left:13%;
+		line-height:45px;
+		color:#f0f0f0;
+		font-size:50px;
+	}
+	.social_icons{
+		position:absolute;
+		top:8%;
+		left:90%;
+	}
+	li{
+		display:;
+		list-style:none;
+		float:left;
+	}
+	
